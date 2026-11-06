@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Base de datos vectorial persistente
+chroma_db/
+
+# Documentos PDF de contratos laborales
+# (Se ignoran los PDFs para proteger datos sensibles de trabajadores en repositorios públicos)
+data/*.pdf
+!data/.gitkeep
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Streamlit
+.streamlit/
+
+# Archivos del sistema y de editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+test.py

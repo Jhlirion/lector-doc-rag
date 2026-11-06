@@ -1,0 +1,18 @@
+# Dependencias para RAG Local de Contratos de Trabajadores
+# Compatible con Python 3.11
+
+# Extracción y procesamiento de PDFs
+pymupdf>=1.23.0
+
+# División de texto en chunks con solapamiento
+langchain-text-splitters>=0.0.1
+
+# Cliente oficial de Ollama para embeddings y LLM local
+ollama>=0.2.0
+
+# Base de datos vectorial embebida y persistente
+chromadb>=0.4.22
+
+# Interfaz gráfica interactiva
+streamlit>=1.30.0
+
