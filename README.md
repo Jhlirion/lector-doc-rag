@@ -63,7 +63,7 @@ Un asistente que **lee tus documentos por ti** y responde con respaldo:
 
 | Antes | Con el asistente |
 |---|---|
-| [COMPLETAR] min buscando y comparando | [COMPLETAR] seg con respuesta y fuente |
+| 30 min buscando y comparando | 3 - 10 seg con respuesta y fuente |
 | Conocimiento concentrado en una persona | Consulta directa para quien esté autorizado |
 | Datos enviados a herramientas externas | Datos que permanecen en la empresa |
 
@@ -94,7 +94,7 @@ Un asistente que **lee tus documentos por ti** y responde con respaldo:
 
 Cuéntame cuántos contratos manejas y qué preguntas se repiten más. Te muestro cómo funcionaría en tu empresa.
 
-📩 **[Jhon Lirion]** · [[LinkedIn](https://www.linkedin.com/in/jhlirion/)] · [[Instagram](https://www.instagram.com/jhlirion/)]
+📩 **Jhon Lirion** · [LinkedIn](https://www.linkedin.com/in/jhlirion/) · [Instagram](https://www.instagram.com/jhlirion/)
 
 ---
 
